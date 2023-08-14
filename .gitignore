@@ -1,0 +1,7 @@
+# Ignore all browser profiles
+*_profile
+
+# Ignore all follower/following and credentials files
+*.txt
+
+run_local.py

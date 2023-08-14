@@ -17,6 +17,7 @@ If you want to get Discord notifications on changes, change "CHANGEME" in the so
 - Error handling for wrong credentials
 - Error handling for wrong 2FA code
 - Automatically redo scraping when suggested profiles are found
+- Check when profile is private
 
 ## Known issues
 When opening followers on the web, Instagram doesn't load all accounts correctly. Let's say the account you want to scrape has 150 followers. On the first run, it will scrape 142 followers, on the second run 138, then 134. 
