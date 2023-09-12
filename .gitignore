@@ -3,5 +3,3 @@
 
 # Ignore all follower/following and credentials files
 *.txt
-
-run_local.py
